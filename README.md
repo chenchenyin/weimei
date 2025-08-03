@@ -1,2 +1,2 @@
 # weimei
-wip
+![My Photo]./IMG_8764.jpeg

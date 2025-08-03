@@ -1,2 +1,2 @@
 # weimei
-![My Photo]./IMG_8764.jpeg
+![My Photo](./IMG_8764.jpeg)
